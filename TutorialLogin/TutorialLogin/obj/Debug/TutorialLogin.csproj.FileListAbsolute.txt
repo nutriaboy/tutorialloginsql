@@ -1,0 +1,11 @@
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\bin\Debug\TutorialLogin.exe.config
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.csprojResolveAssemblyReference.cache
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.Form1.resources
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.Principal.resources
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.Properties.Resources.resources
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.csproj.GenerateResource.Cache
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\bin\Debug\TutorialLogin.exe
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\bin\Debug\TutorialLogin.pdb
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\bin\Debug\MySql.Data.dll
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.exe
+c:\users\francyandres\documents\visual studio 2015\Projects\TutorialLogin\TutorialLogin\obj\Debug\TutorialLogin.pdb
